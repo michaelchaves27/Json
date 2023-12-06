@@ -8,8 +8,8 @@
         },
         {
             "clasificacion": "Lubricante",
-            "imagen": "assets/img/Bel-Ray-10w40.jpg",
-            "nombre": "Aceite Bel Ray 10w40",
+            "imagen": "assets/img/BelRay15w40.jpg",
+            "nombre": "Aceite Bel Ray 15w40",
             "precio": 15000
         },
         {
@@ -22,7 +22,7 @@
             "clasificacion": "Repuesto",
             "imagen": "assets/img/carbu250.jpeg",
             "nombre": "Caburador",
-            "precio": 8.95
+            "precio": 39500
         },
         {
             "clasificacion": "Repuesto",
@@ -61,7 +61,7 @@
             "clasificacion": "Accesorio",
             "imagen": "assets/img/comunicador.jpg",
             "nombre": "Comunicador Bluetooh",
-            "precio": 5.23
+            "precio": 43000
         },
 
         {
@@ -73,9 +73,9 @@
 
         {
             "clasificacion": "Accesorio",
-            "imagen": "assets/img/cajon",
+            "imagen": "assets/img/cajon.jpg",
             "nombre": "Cajón 25L",
-            "precio": 3.15
+            "precio": 28000
         }
 
     
